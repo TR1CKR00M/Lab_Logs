@@ -10,3 +10,8 @@
 - 复习了数据清理和dataframe管理的基础知识(sounds so naive...)
 - 看了一点quantum chemistry的内容！
 ---
+**Sep23, Wed**
+- 读完了Probe Benchmark的文章，确定了基本框架、实验流程与几个模型得到的基础结论。
+- [ ] 上手复现过程（repository）
+- [ ] 把之前chipsff的复现内容同步到github，确保可以复现
+---
