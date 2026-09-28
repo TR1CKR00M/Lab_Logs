@@ -15,3 +15,10 @@
 - [ ] 上手复现过程（repository）
 - [ ] 把之前chipsff的复现内容同步到github，确保可以复现
 ---
+**Sep24, Thu**
+- Team 3 Meeting
+- [x] Probe Benchmark复现
+---
+**Sep26, Sat**
+- 通过调整（缩短）steps完成foundation model的MD模拟
+- 模仿Probe paper的fig 2b/c作图
