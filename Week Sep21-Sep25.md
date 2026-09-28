@@ -22,3 +22,4 @@
 **Sep26, Sat**
 - 通过调整（缩短）steps完成foundation model的MD模拟
 - 模仿Probe paper的fig 2b/c作图
+- 仓库推送，尝试shell包装测试脚本。
