@@ -10,4 +10,5 @@
 - 从（1）显著性（2）时间序列两方面着手对已经取得的四个模型20ps轨迹进行对比分析。(`offset_analysis.py`,`time_sequence_analysis.py`) 结果和昨天的一起在PR#12里。
 - 建立workflow board，为融合到大仓库做准备
 ---
-
+Sep30, Wed
+- 开始尝试跑更长步数的、solid的MD结果（20000步），目前进度100ps/200ps
