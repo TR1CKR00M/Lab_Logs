@@ -10,5 +10,12 @@
 - 从（1）显著性（2）时间序列两方面着手对已经取得的四个模型20ps轨迹进行对比分析。(`offset_analysis.py`,`time_sequence_analysis.py`) 结果和昨天的一起在PR#12里。
 - 建立workflow board，为融合到大仓库做准备
 ---
-Sep30, Wed
+**Sep30, Wed**
 - 开始尝试跑更长步数的、solid的MD结果（20000步），目前进度100ps/200ps
+---
+**Oct1, Thu**
+- 200ps测试完成
+---
+**Oct2, Fri**
+- 整合了两个MD的程序，实现每次MD都有单独目录和yaml，无论是单次跑还是续跑都可追溯
+- 绘图比较程序clean-up（滚动取平均-原始值半透明），以读取txt list来确定csv数据源（而不是在python代码里提前指定），生成图像按照list的名字进行标识
