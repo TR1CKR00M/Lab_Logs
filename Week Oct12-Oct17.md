@@ -1,0 +1,5 @@
+- Rockfish/Skipjack issue
+- [x] Monthly report
+- Look into the paper and decide which fork to work on
+- Learning contents
+- Overleaf usage and cooperation
